@@ -19,7 +19,7 @@
 -->
 <resources>
     <!-- Activity background color -->
-    <drawable name="class_zero_background">#7f040000</drawable>
+    <drawable name="class_zero_background">#ff444444</drawable>
 
     <!-- text color -->
     <drawable name="text_color_red">#ffff4444</drawable>
